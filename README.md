@@ -1,11 +1,8 @@
 # Weather Dashboard
-A simple weather dashboard to check local weather.
+
+A simple dashboard to check local weather.
 
 ## Overview
-
-
-
-
 
 ## Links
 
